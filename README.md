@@ -1,3 +1,6 @@
+
+# 👋 Cypher Lexicon
+
 ---
 description: >-
   Welcome to the Cypher Lexicon. We aim to create commuinty standards for
@@ -6,7 +9,6 @@ coverY: 428.8128772635815
 cover: .gitbook/assets/dagora large banner.png
 ---
 
-# 👋 Cypher Lexicon
 
 
 
