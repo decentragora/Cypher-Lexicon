@@ -1,0 +1,2 @@
+# 🕵 Common Cons & Scams
+

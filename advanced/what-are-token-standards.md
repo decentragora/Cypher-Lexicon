@@ -1,0 +1,17 @@
+# What are Token Standards
+
+## ERC20
+
+LOERN ISPU
+
+## ERC721
+
+LOERN ISPUM
+
+## ERC777
+
+LOERN ISPUM
+
+## ERC1155
+
+LOERN ISPUM

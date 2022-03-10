@@ -1,2 +1,2 @@
-# Stable Coins
+# 🪙 Stable Coins
 
