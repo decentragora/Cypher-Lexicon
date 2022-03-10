@@ -1,2 +1,2 @@
-# Red Flags / Warning Signs of Rug pull or Malicious intent
+# 🚩 Red Flags / Warning Signs of Rug pull or Malicious intent
 

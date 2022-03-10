@@ -1,2 +1,2 @@
-# Seed Phrase Storage
+# 🦺 Seed Phrase Storage
 

@@ -1,2 +1,2 @@
-# DAOs
+# 🏛 DAOs
 
