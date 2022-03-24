@@ -1,2 +1,0 @@
-# WBTC / WETH
-

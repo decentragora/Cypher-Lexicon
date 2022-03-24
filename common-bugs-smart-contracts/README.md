@@ -1,2 +1,0 @@
-# 🐛 Common Bugs Smart Contracts
-

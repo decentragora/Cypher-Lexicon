@@ -1,2 +1,0 @@
-# ⛓ What Is a Blockchain
-

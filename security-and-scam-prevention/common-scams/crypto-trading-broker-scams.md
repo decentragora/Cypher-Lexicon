@@ -1,0 +1,2 @@
+# Crypto trading broker Scams
+
