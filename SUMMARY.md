@@ -2,6 +2,8 @@
 
 * [🕵 Cypher Lexicon](README.md)
   * [🏛 DecentrAgora](common-cons-and-scams/decentragora.md)
+* [Cryptocurrency](cryptocurrency/README.md)
+  * [Page 1](cryptocurrency/page-1.md)
 * [⛓ What is a Blockchain](what-is-a-blockchain/README.md)
   * [⁉ How does it work?](what-is-a-blockchain/how-does-it-work.md)
   * [👷 POW / POS](what-is-a-blockchain/pow-pos.md)
