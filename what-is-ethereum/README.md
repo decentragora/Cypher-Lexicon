@@ -1,3 +1,0 @@
-# 🧙 What is Ethereum
-
-A decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of fraud or third-party interference. The blockchain platform establishes a peer-to-peer network that securely executes and verifies application code, called smart contracts. Smart contracts allow participants to transact with each other without a trusted central authority. Ethereum is an open-source, programmable, decentralized platform built on blockchain technology. Compared to Bitcoin, Ethereum allows for scripting languages which have allowed for application development.
