@@ -33,7 +33,7 @@
     * [🕵 Remove Extension](security-and-scam-prevention/web-security/remove-extension.md)
     * [🟫 Browser's](security-and-scam-prevention/web-security/browsers.md)
   * [Crypto Security](security-and-scam-prevention/crypto-security/README.md)
-    * [💼 Hot Wallet Vs Hardware Wallet](security-and-scam-prevention/crypto-security/hot-wallet-vs-hardware-wallet.md)
+    * [💼 Wallets](security-and-scam-prevention/crypto-security/wallets.md)
     * [🔑 Public & Private Keys](security-and-scam-prevention/crypto-security/public-and-private-keys.md)
     * [🐢 Slow & Steady](security-and-scam-prevention/crypto-security/slow-and-steady.md)
     * [ℹ Contract spend limits](security-and-scam-prevention/crypto-security/contract-spend-limits.md)
