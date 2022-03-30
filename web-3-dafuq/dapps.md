@@ -2,7 +2,7 @@
 
 ## What are Dapps
 
-Dapps are no different than a regular application other than it being run on a blockchain network instead of a single server or computer. in order for an application to be considered a dapp it needs to have these four qualities
+A Dapp is a decentralized application that runs on a distributed ledger, such as a blockchain. Dapps are open-source, autonomous, and anyone can technically contribute to the code. All data is stored on the blockchain, so there is no central point of failure. Holders can vote on decisions that affect the protocol of the application in response to proposed improvements and market feedback. They use a cryptographic token to access the app, and miners or farmers are rewarded in tokens for contributing value to the app. The application generates tokens according to a standard cryptographic algorithm, which serves as proof of the value that nodes are contributing to the app (Bitcoin’s Proof of Work Algorithm).
 
 * The application must be completely open-source, it must operate autonomously, and with no entity controlling the majority of its tokens. The application may adapt its protocol in response to proposed improvements and market feedback but all changes must be decided by the consensus of its users.
 * The application's data and records of operation must be cryptographically stored in a public, decentralized blockchain in order to avoid any central points of failure.
@@ -11,6 +11,8 @@ Dapps are no different than a regular application other than it being run on a b
 * Turning complete meaning dapps are able to complete any task as long the resources can be loaded
 * Deterministic dapps are able to perform the same functions regardless of the environment they are executed in
 * Isolated dapps are executed in a virtual environment known as Ethereum Virtual Machine so that if the smart contract has a bug, it won’t hamper the normal functioning of the blockchain network
+
+
 
 
 
@@ -43,3 +45,9 @@ Hacks are a fairly big problem due to smart contracts being open source it gives
 Most Dapps have poor User interfaces, which can drive off a lot of new users from the space.
 
 #### Users:
+
+**Maintenance**
+
+**network congestion**
+
+**Centralization**
