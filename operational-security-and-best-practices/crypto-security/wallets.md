@@ -6,9 +6,7 @@ description: Here will explain the difference between a hot and cold wallet
 
 Wallets are programs used to interact with various Block-Chains. Technically, coins/tokens themselves– Bitcoin/Ethereum is not stored in the wallet. Instead, wallets can interact with stored data on the Block-Chain, Using a Public key to find data including balance, and transaction history. A private key is used to access the wallet and transact the tokens allocated to that public key.
 
-Keys are a string of numbers that point to a wallet/address, identifying the owner. Block-Chain technology is secured with cryptography. Which means encoding and decoding data. This feature removes the need for a 3rd party/intermediary such as a bank. Wallets use two key's Public and private keys.
-
-Private keys– arguably the most crucial piece of data in the wallet. Is vulnerable to attacks like phishing. Using the Bitcoin Block-Chain, a private key is a 256-bit number and is represented in several ways. Here is a private key in hexadecimal - 256 bits in hexadecimal is 32 bytes, or 64 characters in the range 0-9 or A-F;
+Keys are a string of numbers that point to a wallet/address, identifying the owner. Block-Chain technology is secured with cryptography. Which means encoding and decoding data. This feature removes the need for a 3rd party/intermediary such as a bank. Wallets use two key's [Public](public-and-private-keys.md#public-key) and [private](public-and-private-keys.md#private-key) keys.
 
 ## Hot Wallet
 

@@ -67,4 +67,4 @@
   * [Data in Contracts + Oracles](advanced/data-in-contracts-+-oracles.md)
   * [A Multi Chainworld](advanced/a-multi-chainworld/README.md)
     * [🌉 Bridging](advanced/a-multi-chainworld/bridging.md)
-* [Refs](refs.md)
+* [🔗 Refs](refs.md)
