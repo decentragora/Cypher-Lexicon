@@ -27,10 +27,11 @@ The massive boom for defi in 2020 led to the community making more products incl
   * DEXs can give a user more access to an increased number of cryptocurrencies.
 * Trustless Transactions
   * Using smart contracts to process trades DEXs offer the ability to trade without having a central authority controlling the keys to your funds.
+* Liquidity
 
 ### Disadvantages of DEXs
 
-* Liquidity
+* [Liquidity](yield-farming.md#liquidity)
   * DEXs are relatively new and don't have the same volume as bigger exchanges, leading to slippage.
 * Scalablity
   * Due to DEXs having to run on a BlockChain they a limited to how many transactions per second there can be.

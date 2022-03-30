@@ -2,7 +2,7 @@
 
 In the wake of major hacks and heists that have taken place within the cryptocurrency industry, it’s become more important than ever to take steps to ensure the security of your digital assets. Here is a guide to some of the most important things to keep in mind when it comes to crypto security.
 
-* Keep your private keys private
+### Keep your private keys private
 
 This may seem like an obvious one, but it’s worth repeating: never share your private keys with anyone. Your private keys are what give you access to your cryptocurrency, and if someone else gets ahold of them, they could easily steal your funds.
 

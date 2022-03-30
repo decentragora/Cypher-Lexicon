@@ -31,3 +31,6 @@ in simple form the ERC-20 is a standard interface for fungible (interchangeable)
 What is a Non-Fungible Token (NFT)? A Non-Fungible Token can be used to identify something or someone in a unique way. NFT's use the ERC-721 standard which provides functionalities like transferring tokens from one account to another, getting the current token balance of an account, getting the owner of a specific token, and also the total supply of the token available on the network. ERC-721 also is unique by approving that an amount of token from an account can be moved by a third-party account. an example is that an artist who sells an NFT can earn royalties for 3rd party sales on their art. This can be implemented using smart contracts.
 
 ERC-721 allows for each token to be unique in its traits and stats which can lead to different values. An example is the NFT; HashMasks, where each HashMask is different from the other leading to rare and common NFTs.
+
+## ERC1155&#x20;
+

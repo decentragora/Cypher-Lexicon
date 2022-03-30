@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/dagora large banner (1).png
-coverY: -114
+cover: .gitbook/assets/dAgora_512_512_px2.png
+coverY: 0
 layout: landing
 ---
 
