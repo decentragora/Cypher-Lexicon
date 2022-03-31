@@ -4,7 +4,7 @@
   * [🏛 DecentrAgora](common-cons-and-scams/decentragora.md)
 * [⛓ What is a Blockchain](what-is-a-blockchain/README.md)
   * [⁉ How does it work?](what-is-a-blockchain/how-does-it-work.md)
-  * [👾 Crytpo](what-is-a-blockchain/crytpo.md)
+  * [👾 Crypto](what-is-a-blockchain/crypto.md)
   * [👷 POW / POS](what-is-a-blockchain/pow-pos.md)
   * [🔐 Blockchains added Security](what-is-a-blockchain/blockchains-added-security.md)
 * [😕 Web 3? DaFuq](web-3-dafuq/README.md)
