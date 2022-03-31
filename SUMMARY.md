@@ -22,7 +22,6 @@
   * [🏢 Centralization](centralization-vs-decentralization/centralization.md)
   * [🏛 Decentralization](centralization-vs-decentralization/decentralization.md)
 * [🧙 Understanding Ethereum](understanding-ethereum/README.md)
-  * [💰 Ether the Native currency](understanding-ethereum/ether-the-native-currency.md)
   * [📐 Token Standards](understanding-ethereum/token-standards.md)
   * [📔 What are Smart Contracts](understanding-ethereum/what-are-smart-contracts.md)
   * [⛽ Gas? Wtf is that?](understanding-ethereum/gas-wtf-is-that.md)

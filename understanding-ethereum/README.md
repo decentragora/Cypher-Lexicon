@@ -8,7 +8,11 @@ Ethereum's goal is to give everyone access to digital money and financial servic
 
 Ethereum works on a blockchain consensus that provides security and transparency, currently using the PoW chain to validate transactions. Shortly Ethereum will hard fork into a PoS chain to validate transactions. Think of the Ethereum blockchain as a highway and the Ether transactions as vehicles driving on the highway. To transact on the Ethereum blockchain you will need to pay a small fee to the validators of the network, known as Gas Fees. Gas fees are measured in a smaller unit of Ether; Gwei. Ether would be the base which can be broken down into 18 decimal places, see the table below.
 
-## Ethereum Conversion Table
+### Ether: Ethereums Native currency
+
+
+
+#### Ethereum Conversion Table
 
 |             | Wei Value | Wei                       |
 | ----------- | --------- | ------------------------- |
