@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/dAgora_512_512_px2.png
+cover: .gitbook/assets/Untitled design (13).png
 coverY: 0
 layout: landing
 ---
