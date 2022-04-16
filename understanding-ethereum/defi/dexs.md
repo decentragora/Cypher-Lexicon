@@ -29,25 +29,32 @@ The massive boom for defi in 2020 led to the community making more products incl
 
 #### Trustless Transactions:&#x20;
 
-DEXs use smart contracts to process trades, which means that there is no central authority controlling the funds. This offers users the ability to trade without having to trust a central authority with their funds.
+* DEXs use smart contracts to process trades, which means that there is no central authority controlling the funds. This offers users the ability to trade without having to trust a central authority with their funds.
 
-Liquidity benefits:
+#### Liquidity benefits:
 
-DEXs don't have to worry about the same level of liquidity as a traditional exchange as the order book is on-chain. This allows for a more streamlined trading experience as there is no need to worry about the order book being drained.
+* DEXs don't have to worry about the same level of liquidity as a traditional exchange as the order book is on-chain. This allows for a more streamlined trading experience as there is no need to worry about the order book being drained.
 
-Fees:&#x20;
+#### Fees:&#x20;
 
-DEXs often have lower fees than their centralized counterparts as there are no middlemen to take a cut of the profits.
+* DEXs often have lower fees than their centralized counterparts as there are no middlemen to take a cut of the profits.
 
-Security:
+#### Security:
 
-DEXs are often seen as more secure than centralized exchanges, as there is no central point of attack. Hackers would need to attack each individual user in order to steal their funds, as opposed to a single exchange. This means that users can trade on a DEX without having to worry as much about their funds being hacked.
+* DEXs are often seen as more secure than centralized exchanges, as there is no central point of attack. Hackers would need to attack each individual user in order to steal their funds, as opposed to a single exchange. This means that users can trade on a DEX without having to worry as much about their funds being hacked.
 
 
 
 ### Disadvantages of DEXs
 
-* [Liquidity](yield-farming.md#liquidity)
-  * DEXs are relatively new and don't have the same volume as bigger exchanges, leading to slippage.
-* Scalablity
-  * Due to DEXs having to run on a BlockChain they a limited to how many transactions per second there can be.
+#### Liquidity: [yield-farming.md](yield-farming.md "mention")
+
+* DEXs are relatively new and don't have the same volume as bigger exchanges, leading to slippage.
+
+#### Scalablity:
+
+* Due to DEXs having to run on a BlockChain they a limited to how many transactions per second there can be.
+
+#### Complicated User Interfaces:
+
+&#x20;The average person might be turned off by the complicated interfaces.
