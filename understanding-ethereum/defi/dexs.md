@@ -51,10 +51,10 @@ The massive boom for defi in 2020 led to the community making more products incl
 
 * DEXs are relatively new and don't have the same volume as bigger exchanges, leading to slippage.
 
-#### Scalablity:
+#### Scalability:
 
 * Due to DEXs having to run on a BlockChain they a limited to how many transactions per second there can be.
 
 #### Complicated User Interfaces:
 
-&#x20;The average person might be turned off by the complicated interfaces.
+* The average person might be turned off by the complicated interfaces.
