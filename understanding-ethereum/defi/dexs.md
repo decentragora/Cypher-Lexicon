@@ -29,24 +29,21 @@ The massive boom for defi in 2020 led to the community making more products incl
 
 #### Trustless Transactions:&#x20;
 
-Using smart contracts to process trades DEXs offer the ability to trade without having a central authority controlling the keys to your funds.DEXs use smart contracts to process trades, which means that there is no central authority controlling the funds. This offers users the ability to trade without having to trust a central authority with their funds.
+DEXs use smart contracts to process trades, which means that there is no central authority controlling the funds. This offers users the ability to trade without having to trust a central authority with their funds.
 
 Liquidity benefits:
 
 DEXs don't have to worry about the same level of liquidity as a traditional exchange as the order book is on-chain. This allows for a more streamlined trading experience as there is no need to worry about the order book being drained.
 
-DEXs don't have to worry about the same level of liquidity as traditional exchanges, as the order book is stored on the blockchain. This offers users a more streamlined trading experience, as there is no need to worry about the order book being drained.
+Fees:&#x20;
 
-1. Fees: DEXs often have lower fees than their centralized counterparts as there are no middlemen to take a cut of the profits.
+DEXs often have lower fees than their centralized counterparts as there are no middlemen to take a cut of the profits.
 
-DEXs often have lower fees than centralized exchanges, as there are no middlemen to take a cut of the profits. This means that users can save money on fees when trading on a DEX.
+Security:
 
-1. Security: DEXs are often seen as more secure than centralized exchanges as there is no central point of attack. Hackers would need to attack each individual user in order to steal their funds as opposed to a single exchange.
+DEXs are often seen as more secure than centralized exchanges, as there is no central point of attack. Hackers would need to attack each individual user in order to steal their funds, as opposed to a single exchange. This means that users can trade on a DEX without having to worry as much about their funds being hacked.
 
-DEXs are often seen as more secure than centralized exchanges, as there is no central point of attack. Hackers would need to attack each individual user in order to steal their funds, as opposed to a single exchange. This means that users can trade on a DEX without having to worry about their funds being hacked.
 
-*
-  * Privacy: Users can trade without disclosing personal information.
 
 ### Disadvantages of DEXs
 
