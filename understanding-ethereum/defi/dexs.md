@@ -8,7 +8,7 @@ Decentralized exchanges let users trade/swap cryptocurrencies on a peer-2-peer n
 
 ### Defis & DEXs
 
-The massive boom for defi in 2020 led to the community making more products including DEXs. Uniswap was of the first big exchanges that were built on top of Ethereum. Today there are more options for users including layer 2 protocols.
+The massive boom for defi in 2020 led to the community making more products including DEXs. Uniswap was of the first big exchanges that were built on top of Ethereum. Today there are more options for users including layer 2 protocols.\`
 
 ### List of DEXs
 
@@ -19,15 +19,34 @@ The massive boom for defi in 2020 led to the community making more products incl
 
 ### Advantages of DEXs
 
-* Custody
-  * DEXs are non-consortial, meaning users don't have to give the security of owning their own seeds/keys, to transact with the exchange.
-* Privacy
-  * Users can trade without disclosing personal information.
-* Diversity
-  * DEXs can give a user more access to an increased number of cryptocurrencies.
-* Trustless Transactions
-  * Using smart contracts to process trades DEXs offer the ability to trade without having a central authority controlling the keys to your funds.
-* Liquidity
+#### Custody:
+
+* DEXs are non-consortial, meaning users don't have to give the security of owning their own seeds/keys, to transact with the exchange. They offer users the ability to trade without having to entrust their funds to a central authority. This means that users can keep their funds safe and secure without having to worry about the security of the exchange.
+
+#### Diversity:&#x20;
+
+* DEXs can give a user more access to an increased number of cryptocurrencies. These exchanges offer users the ability to trade a variety of different cryptocurrencies, giving users more choice and flexibility when it comes to trading
+
+#### Trustless Transactions:&#x20;
+
+Using smart contracts to process trades DEXs offer the ability to trade without having a central authority controlling the keys to your funds.DEXs use smart contracts to process trades, which means that there is no central authority controlling the funds. This offers users the ability to trade without having to trust a central authority with their funds.
+
+Liquidity benefits:
+
+DEXs don't have to worry about the same level of liquidity as a traditional exchange as the order book is on-chain. This allows for a more streamlined trading experience as there is no need to worry about the order book being drained.
+
+DEXs don't have to worry about the same level of liquidity as traditional exchanges, as the order book is stored on the blockchain. This offers users a more streamlined trading experience, as there is no need to worry about the order book being drained.
+
+1. Fees: DEXs often have lower fees than their centralized counterparts as there are no middlemen to take a cut of the profits.
+
+DEXs often have lower fees than centralized exchanges, as there are no middlemen to take a cut of the profits. This means that users can save money on fees when trading on a DEX.
+
+1. Security: DEXs are often seen as more secure than centralized exchanges as there is no central point of attack. Hackers would need to attack each individual user in order to steal their funds as opposed to a single exchange.
+
+DEXs are often seen as more secure than centralized exchanges, as there is no central point of attack. Hackers would need to attack each individual user in order to steal their funds, as opposed to a single exchange. This means that users can trade on a DEX without having to worry about their funds being hacked.
+
+*
+  * Privacy: Users can trade without disclosing personal information.
 
 ### Disadvantages of DEXs
 

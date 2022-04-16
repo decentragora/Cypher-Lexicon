@@ -6,7 +6,7 @@ description: >-
 
 # 🏢 Centralization
 
-Centralized exchanges are operated by a single company, which stores all of the user's data on its servers. The problem with centralized exchanges is that you are trusting a single entity with your money. The problem with that is that if they are hacked, or the company goes bankrupt, you could lose all of your money. Also, if the government decides to regulate or ban cryptocurrencies, the centralized exchange could be forced to shut down.&#x20;
+Centralized exchanges are operated by a single company, which stores all of the user's data on its servers. By trusting centralized exchanges, you are trusting a single entity with your money. The problem with that is that if they are hacked, or the company goes bankrupt, you could lose all of your money which could lead to people losing their life savings or being unable to access their money when they need it.
 
 ## Examples of Centralized Companies
 
@@ -24,9 +24,7 @@ This can lead to a number of problems, including censorship, lack of privacy, an
 
 ### Online Gaming
 
-Microsoft Gamepass, Sony PS+, Google Arcadia, Steam, and Tencent own all the content, with zero ownership of the digital licensing for the consumer.&#x20;
-
-
+Microsoft Gamepass, Sony PS+, Google Arcadia, Steam, and Tencent own all the content, with zero ownership of the digital licensing for the consumer. This means that gamers have little choice in what games they can play, and the companies can charge high prices for access to their games. This can make it difficult for gamers to find affordable games, and it can also limit the amount of time they can spend playing.
 
 
 
