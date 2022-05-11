@@ -54,8 +54,10 @@ Application-level standards and conventions, including contract standards such a
 
 #### [Meta](https://eips.ethereum.org/meta)&#x20;
 
-A meta-EIP is a type of EIP that describes a process or event related to Ethereum, or proposes a change to Ethereum's development process. Meta-EIPs are not limited to the Ethereum protocol itself, and may suggest an implementation or require community consensus. Examples of meta-EIPs include procedures, guidelines, changes to the decision-making process, and changes to the tools or development environment used in Ethereum.
+A meta-EIP is a type of EIP that describes a process or event related to Ethereum or proposes a change to Ethereum's development process. Meta-EIPs are not limited to the Ethereum protocol itself and may suggest an implementation or require community consensus. Examples of meta-EIPs include procedures, guidelines, changes to the decision-making process, and changes to the tools or development environment used in Ethereum.
 
 #### [Informational](https://eips.ethereum.org/informational)&#x20;
 
-This EIP provides general guidelines or information to the Ethereum community, but does not propose a new feature. Informational EIPs do not necessarily represent Ethereum community consensus or a recommendation, so users and implementers are free to ignore Informational EIPs or follow their advice.
+This EIP provides general guidelines or information to the Ethereum community but does not propose a new feature. Informational EIPs do not necessarily represent Ethereum community consensus or a recommendation, so users and implementers are free to ignore Informational EIPs or follow their advice.
+
+[Source](https://eips.ethereum.org/#:\~:text=Ethereum%20Improvement%20Proposals%20\(EIPs\)%20describe,the%20Ethereum%20Project%20Management%20repository.)📜
