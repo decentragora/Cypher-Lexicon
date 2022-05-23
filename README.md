@@ -6,4 +6,8 @@ layout: landing
 
 # 🕵 Cypher Lexicon
 
-hi GRASS MAN GRASS MAN GRASS MAN GRASS MAN GRASSMANA NAM OF GRASS
+Welcome to the Cypher-Lexicon, a guide of Cryptocurrency and Web3 knowledge
+
+Table of Content:
+
+insert order for this line and below, use numerical/alphabetical ordering
