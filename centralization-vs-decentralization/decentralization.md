@@ -1,3 +1,16 @@
+---
+description: >-
+  The process of distributing power or authority away from a central location or
+  group.
+---
+
 # 🏛 Decentralization
 
-The process of distributing power or authority away from a central location or group. In the blockchain, decentralization refers to the transfer of control and decision-making from a centralized entity (individual, organization, or group thereof) to a distributed network. There's now $200 billion tied up in decentralized finance (DeFi) protocols, according to tracking site DefiLlama. That number has doubled since late June. The majority of the value is held in projects on Ethereum - around $140 billion. Up next comes Binance. Smart art Chain with $18.5 billion and then Solana with $11.7 billion. The next biggest chains are Terra, Avalanche, and Fantom.
+&#x20;In the blockchain, decentralization refers to the transfer of control and decision-making from a centralized entity (individual, organization, or group thereof) to a distributed network. The benefits of decentralization include increased security and transparency, as well as increased resiliency to attacks and corruption.
+
+At the time of this writing, there is over $200 billion tied up in decentralized finance ([DeFi](../understanding-ethereum/defi/)) protocols, according to [Amberdata](https://blog.amberdata.io/defi-and-the-transformation-of-institutional-finance?utm\_medium=email&\_hsmi=210559080&\_hsenc=p2ANqtz--4jBnJwnHdMtyADjUnlFmz3EWc60XJyaMGdl1NYqYtV3SX4KRwULMEajGaUK9DCcdv2vEuHTmoCtizJjEAq1tmaLmMOQ\&utm\_content=210559080\&utm\_source=hs\_email).&#x20;
+
+
+
+## Examples of Decentralized Projects
+

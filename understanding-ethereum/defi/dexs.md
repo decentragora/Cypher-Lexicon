@@ -12,10 +12,10 @@ The massive boom for defi in 2020 led to the community making more products incl
 
 ### List of DEXs
 
-* [Uniswap](https://uniswap.org)
-* [Sushiswap](https://sushi.com)
+* [Uniswap](https://uniswap.org/)
+* [Sushiswap](https://sushi.com/)
 * [1inch](https://1inch.exchange/#/?network=1)
-* [Pancake swap](https://pancakeswap.finance)
+* [Pancake swap](https://pancakeswap.finance/)
 
 ### Advantages of DEXs
 

@@ -4,7 +4,7 @@
 
 Ethereum offers the ability for developers to build on top of the Ethereum blockchain with the ERC-20 standard. ERC-20 introduces a standard for "Fungible Tokens", simply they have a property that makes each Token the same as another Token. So for a developer to release a token on the Ethereum blockchain, they would need to follow the ERC-20 standard. These tokens are written in scripts and smart contracts using the programming language; Solidity, to implement onto the Ethereum blockchain.
 
-It is important to note the Ether itself does not suit the ERC-20 standard, that is why you will need to ["Wrap"](https://weth.io) the Ether instead. Once the Ether is wrapped it is now compliant with the ERC-20 standards and, can be freely swapped for other Tokens.
+It is important to note the Ether itself does not suit the ERC-20 standard, that is why you will need to ["Wrap"](https://weth.io/) the Ether instead. Once the Ether is wrapped it is now compliant with the ERC-20 standards and, can be freely swapped for other Tokens.
 
 ERC20 was created by Ethereum devs for the Ethereum community in 2015 and was officially recognized by the year 2017. Developers can submit an Ethereum Improvement Proposal (EIP) which would describe new functions along with their specific protocols and standards. A Committee then reviews, approves, amends, and finalizes that EIP—at that point, it becomes an ERC. Although ERC-20 may be the most well-known know it is not the only ERC.
 
