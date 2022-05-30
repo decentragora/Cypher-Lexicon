@@ -1,11 +1,11 @@
 # Table of contents
 
-## Group 1
+## 👋 Introduction
 
-* [👋 Introduction](README.md)
-* [🌄 Abstract](group-1/abstract.md)
-* [🔍 Overview](group-1/overview.md)
-* [🗒 Table of Contents](group-1/table-of-contents.md)
+* [🔍 Overview](README.md)
+* [🌄 Abstract](introduction/abstract.md)
+* [🗒 Table of Contents](introduction/table-of-contents.md)
+* [🗄 Glossary](introduction/glossary.md)
 
 ## 1⃣ Beginner
 
@@ -57,7 +57,7 @@
 
 * [🔍 Overview](advanced/overview.md)
 * [🛤 Final Track](advanced/final-track/README.md)
-  * [Page 3](advanced/final-track/page-3.md)
+  * [Creating dApps](advanced/final-track/creating-dapps.md)
   * [⛓ On Chain Entities](advanced/final-track/on-chain-entities/README.md)
     * [dApps](advanced/final-track/on-chain-entities/dapps.md)
     * [DAOs](advanced/final-track/on-chain-entities/daos.md)
@@ -66,10 +66,10 @@
 ## 🏹 Apprentice Track
 
 * [🔍 Overview](apprentice-track/overview.md)
-* [👟 The First Steps](apprentice-track/the-first-steps/README.md)
-  * [Page 1](apprentice-track/the-first-steps/page-1.md)
-  * [🕵 Chain Sleuth](apprentice-track/the-first-steps/chain-sleuth.md)
-  * [🔮 Web3 Philosopher](apprentice-track/the-first-steps/web3-philosopher.md)
+* [🔱 The Three Ways](apprentice-track/the-three-ways/README.md)
+  * [🔮 Web3 Philosopher](apprentice-track/the-three-ways/web3-philosopher.md)
+  * [🕵 Chain Sleuth](apprentice-track/the-three-ways/chain-sleuth.md)
+  * [🥷 Shadowy Super Coder](apprentice-track/the-three-ways/shadowy-super-coder.md)
 
 ## 👑 Master Track
 
