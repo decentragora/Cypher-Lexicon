@@ -9,3 +9,7 @@ After transacting with blockchains and deploying smart contracts the final step 
 
 
 Before you can create dApps, you need to be able to send transactions on chain, deploy smart contracts and understand crypto fundamentals. ([**Covered in lessons**](broken-reference))
+
+
+
+Head to [**tutorials**](../tutorials-and-guides/) to learn more about how to build, navigate and support the web!
