@@ -89,3 +89,4 @@
 ***
 
 * [🌐 Website](https://decentragora.xyz)
+* [🏛 Community Center](https://dagora.notion.site/DecentrAgora-Community-Center-fa0d702882244ebb86d531c198b6023b)
