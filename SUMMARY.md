@@ -1,10 +1,8 @@
 # Table of contents
 
-* [The Akropolis](README.md)
-
 ## 👋 Introduction
 
-* [💜 Welcome](<README (1).md>)
+* [💜 Welcome](README.md)
 * [🔍 Overview](<README (1) (1).md>)
 * [🌄 Abstract](introduction/abstract.md)
 * [🗒 Table of Contents](introduction/table-of-contents.md)
