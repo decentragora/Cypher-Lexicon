@@ -1,9 +1,11 @@
 # Table of contents
 
+* [The Akropolis](README.md)
+
 ## 👋 Introduction
 
-* [💜 Welcome](README.md)
-* [🔍 Overview](<README (1).md>)
+* [💜 Welcome](<README (1).md>)
+* [🔍 Overview](<README (1) (1).md>)
 * [🌄 Abstract](introduction/abstract.md)
 * [🗒 Table of Contents](introduction/table-of-contents.md)
 * [🗄 Glossary](introduction/glossary.md)
@@ -24,7 +26,7 @@
     * [History](beginner/lessons/cryptography/history.md)
     * [Usage](beginner/lessons/cryptography/usage.md)
     * [Cypherpunks](beginner/lessons/cryptography/cypherpunks.md)
-  * [📡 Distributed Ledgers](<README (1) (1).md>)
+  * [📡 Distributed Ledgers](<README (1) (1) (1).md>)
     * [Using Blockchains](beginner/lessons/readme/using-blockchains.md)
     * [PoW Chains](beginner/lessons/readme/pow-chains.md)
     * [PoS Chains](beginner/lessons/readme/pos-chains.md)
