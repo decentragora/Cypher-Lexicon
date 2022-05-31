@@ -5,7 +5,7 @@
 * [💜 Welcome](README.md)
 * [🔍 Overview](<README (1) (1).md>)
 * [🌄 Abstract](introduction/abstract.md)
-* [🗒 Table of Contents](introduction/table-of-contents.md)
+* [📒 Table of Contents](introduction/table-of-contents.md)
 * [🗄 Glossary](introduction/glossary.md)
 
 ## 1⃣ Beginner
@@ -66,9 +66,10 @@
 
 * [🔍 Overview](advanced/overview.md)
 * [🛤 Final Track](advanced/final-track/README.md)
-  * [Creating dApps](advanced/final-track/creating-dapps.md)
+  * [💸 Cryptonomics](advanced/final-track/cryptonomics.md)
   * [⛓ On Chain Entities](advanced/final-track/on-chain-entities/README.md)
-    * [dApps](advanced/final-track/on-chain-entities/dapps.md)
+    * [dApps](advanced/final-track/on-chain-entities/dapps/README.md)
+      * [Creating dApps](advanced/final-track/on-chain-entities/dapps/creating-dapps.md)
     * [DAOs](advanced/final-track/on-chain-entities/daos.md)
     * [Courses](advanced/final-track/on-chain-entities/courses.md)
 
