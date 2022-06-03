@@ -36,3 +36,4 @@ In order to understand how blockchain technology works in a public way, there ar
 * Centralization vs Decentralization
 * Governance systems
 
+Here are the articles in this section:
