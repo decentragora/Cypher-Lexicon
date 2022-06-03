@@ -63,7 +63,7 @@ The most common use case for a token deployed on a blockchain is governance. Alt
 
 Using a token to generate another token via a time schedule are important and clear use cases for some cryptos. Although, we don't need a crypto for everything, with critical thinking, there are many things made better through the use of cryptocurrency.
 
-#### Crypto Use Cases
+For example;
 
 * Clear payment
 * Faster settlement
