@@ -40,8 +40,8 @@ In order to understand how blockchain technology works in a public way, there ar
 
 Here are the articles in this section:
 
-{% content-ref url="beginner/lessons/readme/cryptocurrency.md" %}
-[cryptocurrency.md](beginner/lessons/readme/cryptocurrency.md)
+{% content-ref url="beginner/lessons/readme/using-blockchains.md" %}
+[using-blockchains.md](beginner/lessons/readme/using-blockchains.md)
 {% endcontent-ref %}
 
 {% content-ref url="beginner/lessons/readme/pow-chains.md" %}

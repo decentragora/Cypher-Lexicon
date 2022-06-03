@@ -28,7 +28,7 @@
     * [Overview](beginner/lessons/readme/overview.md)
     * [Public Chain](beginner/lessons/readme/public-chain.md)
     * [Private Chain](beginner/lessons/readme/private-chain.md)
-    * [Cryptocurrency](beginner/lessons/readme/cryptocurrency.md)
+    * [Cryptocurrency](beginner/lessons/readme/using-blockchains.md)
     * [PoW Chains](beginner/lessons/readme/pow-chains.md)
     * [PoS Chains](beginner/lessons/readme/pos-chains.md)
   * [📊 Economics](beginner/lessons/economics/README.md)
