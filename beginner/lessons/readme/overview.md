@@ -1,6 +1,6 @@
 # Overview
 
-The vast majority of cryptocurrencies are powered by distributed ledger technology— [**DLT**](https://en.wikipedia.org/wiki/Distributed\_ledger).&#x20;
+Distributed ledger technology— [**DLT**](https://en.wikipedia.org/wiki/Distributed\_ledger) **** —also known as blockchains power or utilize cryptocurrencies.
 
 ### Blocks and Chains?
 
