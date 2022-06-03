@@ -37,3 +37,15 @@ In order to understand how blockchain technology works in a public way, there ar
 * Governance systems
 
 Here are the articles in this section:
+
+{% content-ref url="beginner/lessons/readme/using-blockchains.md" %}
+[using-blockchains.md](beginner/lessons/readme/using-blockchains.md)
+{% endcontent-ref %}
+
+{% content-ref url="beginner/lessons/readme/pow-chains.md" %}
+[pow-chains.md](beginner/lessons/readme/pow-chains.md)
+{% endcontent-ref %}
+
+{% content-ref url="beginner/lessons/readme/pos-chains.md" %}
+[pos-chains.md](beginner/lessons/readme/pos-chains.md)
+{% endcontent-ref %}
