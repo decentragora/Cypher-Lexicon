@@ -27,7 +27,9 @@ _There is no physical chain and blocks are numbered entries_
 
 Transactions on a blockchain are distributed and broadcasted to the entire network. The network is a system of interconnected computers similar to the internet. A key difference being the operational layer where data is encrypted by employing sturdy cryptographic principles.&#x20;
 
-A cluster of computers known as miners maintain the network by processing the transactions and gathering them together in '**blocks**' which are then propagated throughout the network and '**chained**' together; creating a history of inputs on a publicly available ledger.&#x20;
+A cluster of computers known as miners maintain the network. They process the transactions and gather them together in '**blocks**' which are then propagated throughout the network and '**chained**' together; creating a history of inputs on a publicly available ledger.&#x20;
+
+It is constantly growing as 'completed' blocks are added to it with a new set of recordings. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data.
 
 In order to understand how blockchain technology works in a public way, there are a few topics that need to be covered first.
 
