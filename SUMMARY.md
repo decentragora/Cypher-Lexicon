@@ -40,10 +40,6 @@
 ## 2⃣ Intermediate
 
 * [🔍 Overview](intermediate/overview.md)
-* [📑 Methods](intermediate/methods/README.md)
-  * [Page 2](intermediate/methods/page-2.md)
-  * [Coming Soon!](intermediate/methods/readme.md)
-  * [Proof of Work](intermediate/methods/proof-of-work.md)
 * [🧑🏫 Tutorials and Guides](intermediate/tutorials-and-guides/README.md)
   * [🧭 Navigating](intermediate/tutorials-and-guides/navigating.md)
   * [🧱 Building](intermediate/tutorials-and-guides/building.md)
@@ -64,6 +60,10 @@
   * [🌌 Universe](intermediate/tutorials-and-guides/universe/README.md)
     * [NFT Protocol](intermediate/tutorials-and-guides/universe/nft-protocol.md)
     * [Resources](intermediate/tutorials-and-guides/universe/resources.md)
+* [📑 Methods](intermediate/methods/README.md)
+  * [Page 2](intermediate/methods/page-2.md)
+  * [Coming Soon!](intermediate/methods/readme.md)
+  * [Proof of Work](intermediate/methods/proof-of-work.md)
 
 ## 3⃣ Advanced
 

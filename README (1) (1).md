@@ -8,18 +8,25 @@ To wrap your head around the system and the ideas presented within, you'll be re
 
 ### Topics Covered
 
+**Beginner**
+
 * [**Technology**](beginner/lessons/technology.md)****
 * [**Interconnected networks aka the internet**](beginner/lessons/the-web/)****
 * [**Cryptography**](beginner/lessons/cryptography/)****
 * ****[**Distributed Ledgers aka Blockchains**](<README (1) (1) (1).md>)****
 * ****[**Economics**](beginner/lessons/economics/)****
-* ****
+
+**Intermediate**
+
 * ****[**Navigating Web3**](intermediate/tutorials-and-guides/navigating.md)****
 * ****[**Building Web3**](intermediate/tutorials-and-guides/building.md)****
 * ****[**Web3 Protection**](beginner/lessons/the-web/web3.md)****
 * ****[**Ethereum**](intermediate/tutorials-and-guides/ethereum/)****
 * ****[**Optimism**](intermediate/tutorials-and-guides/optimism/)****
 * ****[**Universe**](intermediate/tutorials-and-guides/universe/)****
+
+#### **Advanced**
+
 * ****[**Cryptonomics**](beginner/lessons/economics/defi/cryptonomics.md)****
 * ****[**On Chain Entities**](advanced/final-track/on-chain-entities/)****
 
