@@ -12,6 +12,14 @@ This would allow for increased privacy and security, as well as give users more 
 
 If you are somewhat tech-savvy you might know that some of these things currently exist and are available, but adapted to the mass market or in the way that Web3 visionaries plan to implement them. What is holding web3 back from mass adoption is the development of the infrastructure, public awareness, and standards that will be necessary for Web3 to function properly.
 
+### Key Takeaways:
+
+* Peer-to-peer connectivity, ability to read, write, and execute
+* Individual and Community rooted
+* Free-flowing interaction between users with no intermediaries (decentralized)
+
+
+
 {% hint style="info" %}
 The decentralization of the internet is the foundation of Web3, where everyone can use the platform the way they want.
 {% endhint %}

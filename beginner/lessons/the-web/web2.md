@@ -12,6 +12,14 @@ Web2 is also used to describe the transition from static HTML pages to dynamic a
 
 However, Web2 is centralized around a few major platforms and companies, which has led to some concerns about privacy and censorship. Some of these companies include but are not limited to, Google, Facebook, and Amazon.
 
+### Key Takeaways:
+
+* Connected through intermediaries, ability to read and write content
+* Company and People rooted
+* Interaction between users via social media platforms (centralized)
+
+
+
 {% hint style="info" %}
 Social media applications became widespread in the early 2000s, with sites like MySpace and Facebook allowing users to connect with each other online.
 {% endhint %}

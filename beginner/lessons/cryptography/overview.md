@@ -8,6 +8,13 @@ These algorithms are designed to be difficult to break, making it hard for unaut
 
 There are two main types of cryptography:&#x20;
 
-&#x20;In symmetric-key cryptography, the same key is used to encode and decode the data. This key must be kept secret, as anyone who has access to it can decode the data.&#x20;
+{% tabs %}
+{% tab title="Symmetric key cryptography" %}
+The same key is used to encode and decode the data. This key must be kept secret, as anyone who has access to it can decode the data.&#x20;
+{% endtab %}
 
-Asymmetric-key cryptography, also known as public-key cryptography, uses two different keys: a public key and a private key. The public key can be shared with anyone, as it is used to encode the data. The private key is kept secret and is used to decode the data.&#x20;
+{% tab title="Asymmetric key cryptography" %}
+Also known as public-key cryptography, uses two different keys: a public key and a private key. The public key can be shared with anyone, as it is used to encode the data. The private key is kept secret and is used to decode the data.&#x20;
+{% endtab %}
+{% endtabs %}
+

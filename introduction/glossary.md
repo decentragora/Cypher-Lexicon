@@ -10,11 +10,11 @@ Find a curated glossary of frequently found terms in Web3 and the Cypher Lexicon
 
 Are web applications that automatically collect related content and/or data from many online sources. They collect the data and put it all into one place to make things easier and more efficient for end-users.&#x20;
 
-In markets aggregators fetch the best price available in a market from a variety of sources. Providing an 'aggregated quote.' \[Refer to 1inch Exchange or Paraswap]
+In markets, aggregators fetch the best price available in a market from a variety of sources. Providing an 'aggregated quote.' \[Refer to 1inch Exchange or Paraswap]
 
 **Atomic Swap**
 
-Is a smart contract technology that enables the exchange of one cryptocurrency for another without using centralized intermediaries, such as exchanges.
+Is smart contract technology that enables the exchange of one cryptocurrency for another without using centralized intermediaries, such as exchanges.
 
 **Autonomous**
 
@@ -59,7 +59,7 @@ Know Your Customer is the process used to verify the identity of their clients e
 
 **KYB**
 
-Know Your Banker is a process adopted by DecentrAgora. It’s typically used in the Defi branch. Knowing your banker allows for users of decentralized finance to feel comfortable transacting with applications that need access to their funds. Because they know the project creator.
+Know Your Banker is a process adopted by DecentrAgora. It’s typically used in the Defi branch. Knowing your banker allows users of decentralized finance to feel comfortable transacting with applications that need access to their funds. Because they know the project creator.
 
 {% hint style="danger" %}
 _ie; approval transactions and automated trades_
@@ -67,17 +67,17 @@ _ie; approval transactions and automated trades_
 
 **Liquidity Pool**
 
-Are pools of tokens locked in smart contracts that provide liquidity in decentralized exchanges to attenuate the problems caused by the illiquidity typical of such systems.
+Are pools of tokens locked in smart contracts that provide liquidity in decentralized exchanges to reduce the problems caused by the illiquidity typical of such systems.
 
 **Metaverse**
 
 A completely virtual environment composed entirely of data and powered by algorithms/blockchains. This metaspace is run by humans doing digital jobs.
 
-**Multi Signature Smart Contracts (Multi Sigs)**
+**Multi-Signature Smart Contracts (Multi Sigs)**
 
 Are cryptocurrency wallets that require two or more private keys to sign and send a transaction.&#x20;
 
-The storage method requires multiple cryptographic signatures (a private key’s unique fingerprint) to access the wallet. (Refer to [**Gnosis Safe**](https://gnosis-safe.io/))
+The storage method requires multiple cryptographic signatures (a private key’s unique digital fingerprint) to access the wallet. (Refer to [**Gnosis Safe**](https://gnosis-safe.io/))
 
 **Open Source**
 
@@ -85,13 +85,13 @@ Denoting software for which the original source code is made freely available an
 
 **Organization**
 
-An organized body of people with a particular purpose, especially a business, society, association.
+An organized body of people with a particular purpose, especially a business, society, or association.
 
 **Private Key**
 
 Allows a user to access their cryptocurrency. If a user loses their private key, they can no longer access the wallet to spend, withdraw, or transfer coins.&#x20;
 
-Private keys correspond to ‘Seed’ or ‘Recovery’ phrases. The words of your seed phrase&#x20;
+Private keys correspond to ‘Seed’ or ‘Recovery’ phrases; the words of your seed phrase&#x20;
 
 {% hint style="danger" %}
 **PRIVATE KEYS or SEED PHRASES MUST BE KEPT SECRET**

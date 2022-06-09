@@ -10,6 +10,12 @@ Prior to the widespread adoption of the internet, Web1 was developed by companie
 
 Even if you had access to the internet back then, chances were that you paid for it by the hour or even by the number of pages you viewed. Computers and even the internet were considered luxury items at this time and were not normally found in homes. By contrast, today's internet is used by everyone for a variety of purposes, including sharing information, entertainment, and communication.
 
+### Key Takeaways:
+
+* Static, read-only content
+* Company rooted
+* Little interaction between users
+
 {% hint style="info" %}
 HTML was the first language used to create web pages, and it is still the most common language used today.
 {% endhint %}

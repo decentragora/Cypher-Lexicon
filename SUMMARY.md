@@ -32,10 +32,10 @@
     * [PoW Chains](beginner/lessons/readme/pow-chains.md)
     * [PoS Chains](beginner/lessons/readme/pos-chains.md)
   * [📊 Economics](beginner/lessons/economics/README.md)
-    * [TradFi](beginner/lessons/economics/tradfi/README.md)
-      * [MMT](beginner/lessons/economics/tradfi/mmt.md)
     * [DeFi](beginner/lessons/economics/defi/README.md)
       * [Cryptonomics](beginner/lessons/economics/defi/cryptonomics.md)
+    * [TradFi](beginner/lessons/economics/tradfi/README.md)
+      * [MMT](beginner/lessons/economics/tradfi/mmt.md)
 
 ## 2⃣ Intermediate
 
@@ -53,7 +53,6 @@
       * [Courses](intermediate/tutorials-and-guides/ethereum/resources/courses/README.md)
         * [CryptoZombies](intermediate/tutorials-and-guides/ethereum/resources/courses/cryptozombies.md)
         * [Ethernaut](intermediate/tutorials-and-guides/ethereum/resources/courses/ethernaut.md)
-        * [Page 4](intermediate/tutorials-and-guides/ethereum/resources/courses/page-4.md)
   * [🔴 Optimism](intermediate/tutorials-and-guides/optimism/README.md)
     * [Optimistic Rollups](intermediate/tutorials-and-guides/optimism/optimistic-rollups.md)
     * [Resources](intermediate/tutorials-and-guides/optimism/resources.md)
