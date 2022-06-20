@@ -4,13 +4,17 @@ description: Cryptography uses mathematical algorithms to encode and decode data
 
 # Overview
 
-These algorithms are designed to be difficult to break, making it hard for unauthorized parties to access the information. The sender and receiver of the information must have the same cryptographic key in order to encode and decode the data. A key can be a number, a word, or a phrase.
+Cryptography uses algorithms to decode and encode data. Cryptographic algorithms are designed to be difficult or nearly impossible to break.\
+\
+Information secured with cryptography is incredibly hard for unauthorized parties to access.&#x20;
 
-There are two main types of cryptography:&#x20;
+The sender and receiver of the information must have the right cryptographic key in order to encode and decode the data.&#x20;
+
+Two main types of Cryptography:
 
 {% tabs %}
 {% tab title="Symmetric key cryptography" %}
-A single key system: the same key is used to encode and decode data. \
+A <mark style="color:yellow;">**single key system**</mark>: the same key is used to encode and decode data. \
 \
 _This key must be kept secret, as anyone who has access to it can decode the data._&#x20;
 {% endtab %}
@@ -24,3 +28,6 @@ _The <mark style="color:red;">**private key**</mark> is kept secret and is used 
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+A key can be a number, a word, or a phrase.
+{% endhint %}

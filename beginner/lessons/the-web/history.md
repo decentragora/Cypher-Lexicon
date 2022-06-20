@@ -32,6 +32,6 @@ Had seen the continued growth of the internet and its technologies. The prolifer
 
 ### 2020s
 
-Is sure to bring even more changes to the internet and its technologies. We are now on the verge of the era of [Web3](web3.md), which promises to be more user-centric and decentralized than the current web and is powered by the people who use it. This replacement of the internet is powered by blockchain technology.&#x20;
+Is sure to bring even more changes to the internet and its technologies. We are now on the verge of the era of [web3](web3.md), which promises to be more user-centric and decentralized than the current web and is powered by the people who use it. This replacement of the internet is powered by blockchain technology.&#x20;
 
 Blockchain, a decentralized system for storing and managing data, is beginning to change the way we think about the internet. This new generation of the internet is still in its early stages, but it has the potential to revolutionize the way we live, work, play, and communicate with each other.
