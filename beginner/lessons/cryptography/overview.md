@@ -10,11 +10,17 @@ There are two main types of cryptography:&#x20;
 
 {% tabs %}
 {% tab title="Symmetric key cryptography" %}
-The same key is used to encode and decode the data. This key must be kept secret, as anyone who has access to it can decode the data.&#x20;
+A single key system: the same key is used to encode and decode data. \
+\
+_This key must be kept secret, as anyone who has access to it can decode the data._&#x20;
 {% endtab %}
 
 {% tab title="Asymmetric key cryptography" %}
-Also known as public-key cryptography, uses two different keys: a public key and a private key. The public key can be shared with anyone, as it is used to encode the data. The private key is kept secret and is used to decode the data.&#x20;
+Also known as public-key cryptography, asymmetric cryptography uses two different keys: a public key and a private key. \
+\
+_The <mark style="color:purple;">**public key**</mark> can be shared with anyone, as it is used to encode the data._ \
+\
+_The <mark style="color:red;">**private key**</mark> is kept secret and is used to decode the data._&#x20;
 {% endtab %}
 {% endtabs %}
 
