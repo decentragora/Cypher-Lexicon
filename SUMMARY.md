@@ -36,6 +36,7 @@
       * [Cryptonomics](beginner/lessons/economics/defi/cryptonomics.md)
     * [TradFi](beginner/lessons/economics/tradfi/README.md)
       * [MMT](beginner/lessons/economics/tradfi/mmt.md)
+* [📜 Summary](beginner/summary.md)
 
 ## 2⃣ Intermediate
 
@@ -63,6 +64,7 @@
   * [Page 2](intermediate/methods/page-2.md)
   * [Coming Soon!](intermediate/methods/readme.md)
   * [Proof of Work](intermediate/methods/proof-of-work.md)
+* [📜 Summary](intermediate/summary.md)
 
 ## 3⃣ Advanced
 
@@ -74,14 +76,16 @@
       * [Creating dApps](advanced/final-track/on-chain-entities/dapps/creating-dapps.md)
     * [DAOs](advanced/final-track/on-chain-entities/daos.md)
     * [Courses](advanced/final-track/on-chain-entities/courses.md)
+* [📜 Summary](advanced/summary.md)
 
 ## 🏹 Apprentice Track
 
 * [🔍 Overview](apprentice-track/overview.md)
 * [🔱 The Three Ways](apprentice-track/the-three-ways/README.md)
-  * [🔮 Web3 Philosopher](apprentice-track/the-three-ways/web3-philosopher.md)
+  * [🔮 Third-Gen Philosopher](apprentice-track/the-three-ways/third-gen-philosopher.md)
   * [🕵 Chain Sleuth](apprentice-track/the-three-ways/chain-sleuth.md)
   * [🥷 Shadowy Super Coder](apprentice-track/the-three-ways/shadowy-super-coder.md)
+* [📜 Summary](apprentice-track/summary.md)
 
 ## 👑 Master Track
 
@@ -89,6 +93,7 @@
 * [⚓ The Last Voyage](master-track/the-last-voyage/README.md)
   * [🐲 Slay the Dragon](master-track/the-last-voyage/slay-the-dragon.md)
   * [⚔ House of Contributions](master-track/the-last-voyage/house-of-contributions.md)
+* [📜 Summary](master-track/summary.md)
 
 ***
 
