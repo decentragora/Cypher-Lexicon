@@ -5,5 +5,5 @@ description: >-
   principles of artificial supply and demand.
 ---
 
-# Nakanomics
+# 🧮 Nakanomics
 

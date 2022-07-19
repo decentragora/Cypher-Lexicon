@@ -27,7 +27,7 @@ To wrap your head around the system and the ideas presented within, you'll be re
 
 #### **Advanced**
 
-* ****[**Cryptonomics**](beginner/lessons/economics/defi/cryptonomics.md)****
+* ****[**Cryptonomics**](advanced/final-track/nakanomics/cryptonomics.md)****
 * ****[**On Chain Entities**](advanced/final-track/on-chain-entities/)****
 
 {% hint style="info" %}
