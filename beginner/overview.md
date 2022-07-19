@@ -14,10 +14,10 @@ You'll see as you make your way through this book. Our interactions with each ot
 Some may feel like they have a fairly solid understanding of the internet, but we still advise you to take your time and go through the sections slowly. The better understanding you have at the start the easier it will be to navigate further lessons.
 
 1. [Technology](lessons/technology.md)
-2. [The Web](lessons/the-web/)
-3. [Cryptography](lessons/cryptography/)
-4. [Distributed Ledgers](<../README (1) (1) (1).md>)
-5. [Economics  ](lessons/economics/)
+2. [The Web](broken-reference)
+3. [Cryptography](broken-reference)
+4. [Distributed Ledgers](broken-reference)
+5. [Economics  ](broken-reference)
 
 For the people who feel like they have fallen behind in the tech world or simply, you don't feel knowledgable enough about technology.&#x20;
 
