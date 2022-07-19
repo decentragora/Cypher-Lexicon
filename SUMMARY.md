@@ -3,10 +3,6 @@
 ## 👋 Introduction
 
 * [💜 Welcome](README.md)
-* [🔍 Overview](<README (1) (1).md>)
-* [🌄 Abstract](introduction/abstract.md)
-* [📒 Table of Contents](introduction/table-of-contents.md)
-* [🗄 Glossary](introduction/glossary.md)
 
 ## 1⃣ Beginner
 
