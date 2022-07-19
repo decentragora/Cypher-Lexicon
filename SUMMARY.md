@@ -3,7 +3,7 @@
 ## 👋 Introduction
 
 * [💜 Welcome](README.md)
-* [🔍 Overview](introduction/overview.md)
+* [🔍 Overview](<README (1) (1).md>)
 * [🌄 Abstract](introduction/abstract.md)
 * [📒 Table of Contents](introduction/table-of-contents.md)
 * [🗄 Glossary](introduction/glossary.md)
@@ -20,11 +20,11 @@
     * [Web1](beginner/lessons/the-web/web1.md)
     * [Web2](beginner/lessons/the-web/web2.md)
     * [Web3](beginner/lessons/the-web/web3.md)
-  * [📡 Distributed Ledgers](beginner/lessons/readme/README.md)
+  * [📡 Distributed Ledgers](<README (1) (1) (1).md>)
     * [Overview](beginner/lessons/readme/overview.md)
     * [Uses](beginner/lessons/readme/uses.md)
     * [Private Chain](beginner/lessons/readme/private-chain.md)
-    * [Cryptocurrency](beginner/lessons/readme/cryptocurrency.md)
+    * [Cryptocurrency](beginner/lessons/readme/using-blockchains.md)
     * [PoW Chains](beginner/lessons/readme/pow-chains.md)
     * [PoS Chains](beginner/lessons/readme/pos-chains.md)
     * [Public Chain](beginner/lessons/readme/public-chain.md)
@@ -44,6 +44,7 @@
 
 ## 2⃣ Intermediate
 
+* [🔍 Overview](intermediate/overview.md)
 * [🧑🏫 Tutorials and Guides](intermediate/tutorials-and-guides/README.md)
   * [🧭 Navigating](intermediate/tutorials-and-guides/navigating.md)
   * [🧱 Building](intermediate/tutorials-and-guides/building.md)
@@ -75,10 +76,10 @@
     * [Coming Soon!](intermediate/methods/readme.md)
     * [Proof of Work](intermediate/methods/proof-of-work.md)
 * [📜 Summary](intermediate/summary.md)
-* [🔍 Overview](intermediate/overview.md)
 
 ## 3⃣ Advanced
 
+* [🔍 Overview](advanced/overview.md)
 * [🛤 Final Track](advanced/final-track/README.md)
   * [🧮 Nakanomics](advanced/final-track/nakanomics/README.md)
     * [Cryptonomics](advanced/final-track/nakanomics/cryptonomics.md)
@@ -90,7 +91,6 @@
     * [DAOs](advanced/final-track/on-chain-entities/daos.md)
     * [Courses](advanced/final-track/on-chain-entities/courses.md)
 * [📜 Summary](advanced/summary.md)
-* [🔍 Overview](advanced/overview.md)
 
 ## 🏹 Apprentice Track
 

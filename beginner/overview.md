@@ -16,7 +16,7 @@ Some may feel like they have a fairly solid understanding of the internet, but w
 1. [Technology](lessons/technology.md)
 2. [The Web](lessons/the-web/)
 3. [Cryptography](lessons/cryptography/)
-4. [Distributed Ledgers](lessons/readme/)
+4. [Distributed Ledgers](<../README (1) (1) (1).md>)
 5. [Economics  ](lessons/economics/)
 
 For the people who feel like they have fallen behind in the tech world or simply, you don't feel knowledgable enough about technology.&#x20;
