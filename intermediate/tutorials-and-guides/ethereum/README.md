@@ -14,7 +14,7 @@ Ethereum's goal is to give everyone access to digital money and financial servic
 
 ### How Ethereum Works
 
-Ethereum works on a blockchain consensus that provides security and transparency, currently using the [PoW](../../../beginner/lessons/readme/pow-chains.md) chain to validate transactions. Soon, Ethereum will hard fork into a [PoS](../../../beginner/lessons/readme/pos-chains.md) chain to validate transactions. Think of the Ethereum blockchain as a highway and the Ether transactions as vehicles driving on the highway.
+Ethereum works on a blockchain consensus that provides security and transparency, currently using the [PoW](broken-reference) chain to validate transactions. Soon, Ethereum will hard fork into a [PoS](broken-reference) chain to validate transactions. Think of the Ethereum blockchain as a highway and the Ether transactions as vehicles driving on the highway.
 
 ### Ether: Ethereum's Native Currency
 
