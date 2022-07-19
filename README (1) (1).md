@@ -12,23 +12,21 @@
 
 **Intermediate**
 
-* ****[**Navigating The Web**](intermediate/tutorials-and-guides/navigating.md)****
-* ****[**Building The Web**](intermediate/tutorials-and-guides/building.md)****
-* ****[**Web Protection**](beginner/lessons/the-web/web3.md)****
-* ****[**Bitcoin**](intermediate/tutorials-and-guides/bitcoin/)****
+* ****[**Navigating Web3**](intermediate/tutorials-and-guides/navigating.md)****
+* ****[**Building Web3**](intermediate/tutorials-and-guides/building.md)****
+* ****[**Web3 Protection**](beginner/lessons/the-web/web3.md)****
 * ****[**Ethereum**](intermediate/tutorials-and-guides/ethereum/)****
 * ****[**Optimism**](intermediate/tutorials-and-guides/optimism/)****
 * ****[**Universe**](intermediate/tutorials-and-guides/universe/)****
-* ****[**Guild.XYZ**](intermediate/tutorials-and-guides/guild.xyz.md)****
 
 #### **Advanced**
 
-* ****[**Final track**](advanced/final-track/)****
+* **Final track**
 * ****[**Nakanomics**](advanced/final-track/nakanomics/)****
 * [**Cryptonomics**](advanced/final-track/nakanomics/cryptonomics.md)****
-* ****[**Automated Supply and Demand**](advanced/final-track/nakanomics/automated-supply-and-demand.md)****
-* ****[**Governance**](advanced/final-track/nakanomics/governance.md)****
+* **Automated Supply and Demand**
+* **Governance**
 * ****[**On Chain Entities**](advanced/final-track/on-chain-entities/)****
-* ****[**dApps**](advanced/final-track/on-chain-entities/dapps/)****
-* ****[**DAOs**](advanced/final-track/on-chain-entities/daos.md)****
-* ****[**Courses**](advanced/final-track/on-chain-entities/courses.md)****
+* **dApps**
+* **DAOs**
+* **Courses**
