@@ -1,2 +1,2 @@
-# 🔮 Web3 Philosopher
+# 🔮 Third Gen Philosopher
 
