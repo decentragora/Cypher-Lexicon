@@ -12,4 +12,4 @@ Before you can create dApps, you need to be able to send transactions on chain, 
 
 
 
-Head to [**tutorials**](../) to learn more about how to build, navigate and support the web!
+Head to [**tutorials**](../tutorials-and-guides/) to learn more about how to build, navigate and support the web!

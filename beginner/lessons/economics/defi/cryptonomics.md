@@ -1,12 +1,28 @@
 ---
 description: >-
-  Basically it is the combined use of economics and cryptography to assist
-  managing the functions of participants using the network.
+  In it's simplest form Cryptonomics is the combined use of economics and
+  cryptography to manage the functions of participants using a network.
 ---
 
 # Cryptonomics
 
-Cryptonomics comes from two words: cryptography and economics.&#x20;
+Cryptonomics comes from two words: cryptography and economics. \
+\
+Using a blockchain allows us to take advantage of dynamic features of cryptography that include mathematics, game theory, systems design and other areas related to economics and information sharing. Features put cryptography in a different category— a tool/service —instead of an area mainly concerned with simple information sharing and privacy. Otherwise, cryptography is typically pursued by hobbyists/academics and considered less by the general population.
+
+Cryptonomics sets a standard: users of a network may receive their incentives without the need of a third party. Meaning that it forms a major part of decentralized networks where there is no need third party verification. (See; [**Trusted Third Parties are Security Holes by; Nick Szabo**](https://nakamotoinstitute.org/trusted-third-parties/))
+
+## Practical Cryptonomics uses:&#x20;
+
+**Creation of peer-to-peer networks** - Possible to develop peer-to-peer networks, these systems have minimal and manageable weak points and very rare for glitches to occur.&#x20;
+
+**Establishing reliable agreements** - cryptonomics is also a crucial part of creating effective agreements that can be executed without any issues happening. But all parties involved must come to an agreement and cooperate in order for the process to go smoothly.
+
+**Applying incentives in peer-to-peer networks -**  All participants in the network can receive their incentives without having to stress. Offering these incentives gives the developers leverage to guide the trends and activities that happen on the network.&#x20;
+
+**Creating more secure networks -** With the combination of cryptography and incentives that has create the development of a renewed system of decentralized networks, which is more secure and much more sustainable in the long run.&#x20;
+
+
 
 The economics part of the equation is what gives a blockchain unique capabilities. However, the blockchain was not the first time that a decentralized peer-to-peer system was used to freely transfer value.&#x20;
 

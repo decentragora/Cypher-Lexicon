@@ -1,6 +1,2 @@
----
-coverY: 0
----
-
-# Guild.xyz
+# 🏰 Guild.xyz
 

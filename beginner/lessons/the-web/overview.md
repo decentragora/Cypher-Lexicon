@@ -1,8 +1,8 @@
 ---
 description: >-
-  Explaining the origin and history or the web and how it has impacted our
-  history and culture as a whole and also the different stages and where it is
-  headed in the future.
+  This will be going into detail about the history of the web and how it has
+  impacted us as a society as a whole throughout history. The different periods
+  that they went through and where we sit today.
 ---
 
 # Overview
