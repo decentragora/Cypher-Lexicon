@@ -1,8 +1,7 @@
 ---
 description: >-
-  This section will focus on helping you understand the different platforms and
-  features that you will be building on during web3. The Lexicon will help guide
-  you to build assets and relationships.
+  Giving you a look into the different applications and systems that will allow
+  you to take the next steps and make you
 ---
 
 # 🧱 Building

@@ -1,13 +1,13 @@
 ---
 description: >-
-  Beginner section will be very important for those of you who are just getting
-  started in the web3 world or are just curious about what the hype is about. We
-  have basic definitions and explanations.
+  The Lexicon is here to help guide your learning and understanding as you
+  venture into the world of web3. The beginner lessons will give you a base
+  level to start your learning.
 ---
 
 # 🔍 Overview
 
-The first section of the Lexicon will be focusing on giving you a basic knowledge and understanding on a number of important subjects that you will give you a basic understanding of what web3 actually is and all the features and tasks you can accomplish.
+The beginning lessons of the Lexicon is meant to give you a strong base for your web3 learning experience. The beginner lessons will go into detail about the main ideas and functions that you will need to comfortably take the next step.&#x20;
 
 &#x20;For the people who feel like they have fallen behind in the tech world or just simply are not the most tech knowledgable, this beginner section will be very important step in your journey of understanding. It will cover the history and basic ideas of what web3 is and trying to become. We will give a look at how it started and all the possibilities it has now and in the future.&#x20;
 

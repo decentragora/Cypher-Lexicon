@@ -1,4 +1,13 @@
+---
+description: >-
+  Intermediate section will be going into more detail of web3 and the features,
+  how to navigate and many building blocks you will be using in your
+  experiences.
+---
+
 # 🔍 Overview
+
+The second section of the Lexicon will give people a more in depth look at what web3 has the capacity for and how it will change how you see the web. We will go through a number of different tutorials and guides that will go into detail incase you are feeling unsure about a certain subject or concept that might need some clarification.&#x20;
 
 Welcome to the intermediate track of the Lexicon! Building upon the last few lessons you will now learn the following:&#x20;
 

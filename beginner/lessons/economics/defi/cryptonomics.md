@@ -1,12 +1,30 @@
 ---
 description: >-
-  Cryptonomics in basic terms is the combined use of cryptography and economics
-  to manage the functions of participants using the network.
+  Basically it is the combined use of economics and cryptography to assist
+  managing the functions of participants using the network.
 ---
 
 # Cryptonomics
 
-Cryptonomics comes from two words: cryptography and economics, the economics part of the equation is the part that gives the blockchain it's unique capabilities. But the blockchain was not the first time that a decentralized peer-to-peer system was used, for years torrent sites have used it in order to share files.&#x20;
+Cryptonomics comes from two words: cryptography and economics.&#x20;
+
+The economics part of the equation is what gives a blockchain unique capabilities. However, the blockchain was not the first time that a decentralized peer-to-peer system was used to freely transfer value.&#x20;
+
+For years, torrent sites have used peer-to-peer networks to share files or information. The data gets secured by advanced cryptography, then it can get sent between users for a sum or none— _not including the fees to use the network_ —and the exchange is direct. (Cryptonomics)
+
+Some suggest that Cryptonomics allow for micro-economies to flourish; _paving the way for participants of a network to receive incentives without the need of a third party._
+
+The main functions of Cryptonomics are to properly incentivise users, builders and planners while allowing for managers, designers, developers and capital funds to work together with transparent systems underneath. Removing costly— and often inefficient —intermediaries that would be needed to file paperwork, process fees and settle arrangements.
+
+### Applications of Cryptonomics
+
+**Secure peer-to-peer networks -** Using the features of Cryptonomics it is now possible to develop and establish secure peer-to-peer networks. These systems have minimal and manageable weak points, Which also makes it very rare for glitches to occur in these systems.&#x20;
+
+**Establishing reliable agreements -** All participants that are in the network can receive their incentives without having the need to worry or stress. The reason for offering incentives is to give the developers leverage to help guide the trends and activities that are happening on the network.&#x20;
+
+**Creating more secure networks -** With the combination of cryptography and incentives it has assisted the development of a renewed system of decentralized networks. Which is more secure and the new system is more sustainable in the long term.&#x20;
+
+The Cryptonomics concept has become a vital part of designing decentralized networks. It is in support of a transparent system that rewards all of it's participants. The model can also be applied to improve token distribution processes and a fair management plan. The cryptonomics model has been tested in real time settings and the good results create opportunities for even more efficient and reliable decentralized networks.&#x20;
 
 The main purpose for Cryptonomics is to use it for properly managing design development, fund management and how decentralized networks function.&#x20;
 

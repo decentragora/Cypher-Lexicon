@@ -6,7 +6,7 @@ description: Harnessing the world computer.
 
 Ethereum is an open-source, programmable, decentralized platform built on blockchain technology. Compared to Bitcoin, Ethereum allows for scripting languages that have allowed for application development.&#x20;
 
-The decentralized blockchain platform establishes a peer-to-peer network that securely executes and verifies application code, called smart contracts. Smart contracts allow participants to transact with each other without a trusted central authority.&#x20;
+The decentralized blockchain platform establishes a peer-to-peer network that securely executes and verifies application code, called [smart contracts](lessons/smart-contracts.md). Smart contracts allow participants to transact with each other without a trusted central authority.&#x20;
 
 ### Ethereum's Goal
 

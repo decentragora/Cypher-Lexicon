@@ -18,7 +18,7 @@ To wrap your head around the system and the ideas presented within, you'll be re
 
 **Intermediate**
 
-* ****[**Navigating Web3**](intermediate/tutorials-and-guides/navigating/)****
+* ****[**Navigating Web3**](intermediate/tutorials-and-guides/navigating.md)****
 * ****[**Building Web3**](intermediate/tutorials-and-guides/building.md)****
 * ****[**Web3 Protection**](beginner/lessons/the-web/web3.md)****
 * ****[**Ethereum**](intermediate/tutorials-and-guides/ethereum/)****
