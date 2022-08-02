@@ -8,7 +8,7 @@ description: >-
 
 In order to understand the economics driving Web3, one must first understand the modern monetary theory. Modern monetary theory is a school of thought that argues that the government should be the sole provider of money and that money should be used as a tool to stabilize the economy. This theory is based on the belief that the government is better equipped to manage the money supply and to ensure that the economy is stable.
 
-![Illustration: Rose Conlon/Marketplace](../../../../.gitbook/assets/image.png)
+![Illustration: Rose Conlon/Marketplace](<../../../../.gitbook/assets/image (1).png>)
 
 However, this school of thought can be controversial, and there are many different opinions on how the government should manage the money supply. This also leaves room for debate on how Web3 should be structured in order to best take advantage of the government's role in the economy.
 

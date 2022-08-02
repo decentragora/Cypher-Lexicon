@@ -55,7 +55,21 @@ Just like any type of investing there are a number of risks and factors that you
 
 **With the all time high being $69,000 that was reached on November. 9, 2021.**&#x20;
 
-Because of this, many people simply purchase Bitcoin solely for investment purposes rather than it's ability to act as a medium of exchange. This being said, with the lack of guaranteed value and also it's digital nature means that it's purchase and it's actual use comes with a number of inherent risks. For example, many investor alerts.&#x20;
+Because of this, many people simply purchase Bitcoin solely for investment purposes rather than it's ability to act as a medium of exchange. This being said, with the lack of guaranteed value and also it's digital nature means that it's purchase and it's actual use comes with a number of inherent risks. For example, many investor alerts have been issued by the Securities and Exchange Commission (SEC), the Financial Industry Regulatory Authority (FINRA) and also the Consumer Financial Protection Bureau (CFPB) regarding Bitcoin investing.&#x20;
+
+**Regulatory Risk -** With a lack of uniform regulations on Bitcoin and also other cryptocurrencies, raises questions about their longevity, liquidity and compatibility.&#x20;
+
+**Security Risk -** For most of the people who own and use Bitcoin do not acquire it by mining. For the most part users just buy and sell Cryptocurrencies on popular online markets that are called Cryptocurrency exchanges.  Because these exchanges are all digital and just like any virtual system they are at risk of hackers, malware and operational glitches as well.&#x20;
+
+**Insurance Risk -** Bitcoin and other cryptocurrencies are not insured through Securities Investor Protection Corporation (SIPC) or the Federal Deposit Insurance Corporation (FDIC), some exchanges provide insurance through third parties.&#x20;
+
+**Freud Risk** - Even with all the security measures that are already within the blockchain, there are still ways for people to find opportunities for fraudulent behaviour. That being said you must do your best to always try to stay vigilant and double check everything.&#x20;
+
+**Market Risk -** Just like with any investment, Bitcoin values can fluctuate. Just like we have seen in the past the value of the currency has been pretty wild during it's short period. Subject to high volume buying and selling on the exchanges, and is highly sensitive to any newsworthy events.&#x20;
+
+
+
+
 
 
 

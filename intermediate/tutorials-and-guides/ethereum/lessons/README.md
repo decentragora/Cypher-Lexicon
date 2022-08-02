@@ -6,4 +6,3 @@ description: >-
 
 # Lessons
 
-This will help you get a

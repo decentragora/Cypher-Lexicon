@@ -1,5 +1,7 @@
 ---
-description: Taking a look at what this section of the Lexicon will be explaining.
+description: >-
+  Taking a look at what this section of the Lexicon will be explaining. Giving
+  you an outline of what the next lesson will be centred around.
 ---
 
 # Overview
