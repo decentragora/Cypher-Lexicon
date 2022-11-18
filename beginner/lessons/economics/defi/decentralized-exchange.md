@@ -34,6 +34,28 @@ There are three man types of decentralized exchanges:&#x20;
 
 &#x20;
 
-&#x20;With all of these allowing users to trade directly with each other through smart contracts.&#x20;
+&#x20;With all of these allowing users to trade directly with each other through smart contracts. The first decentralized exchanges used the same type of order books, similar to centralized exchanges.
 
-The first decentralized exchanges used the same type of order books, similar to centralized exchanges.&#x20;
+### Advantages of DEX's
+
+For many users of decentralized exchanges can be expensive especially when the network transaction fees are high at the time of the transaction. But there are a number of different advantages that come along with that.&#x20;
+
+**Token Availability** - Unlike decentralized centralized exchanges must individually vet tokens and make sure that they follow the local regulations before listing them. Decentralized exchanges can include any tokens that are minted on the blockchain that they are built on. Which means that the new projects will most likely list on these exchanges before being available on the centralized exchanges. Though this means that traders can get in as early as possible on projects, which leaves opportunities for all sorts of different scams that are listed on DEX's.&#x20;
+
+**Anonymity** - When the users exchange one cryptocurrency for another, the users anonymity is still preserved on the DEX's. Unlike centralized exchanges, the users do not need to go through a standard identification process that is called Know Your Customer (KYC). This process involves collecting traders personal information. As a result DEX's attract a large number of people who do not wish to divulge their personal information.&#x20;
+
+**Reduced Security Risk** - The experienced cryptocurrency users who custody their funds are at a reduced risk of being hacked using DEX'S, as these exchanges are not in control of their funds. Rather, traders have to guard their funds and only interact with exchange when they wish to do so, also if the platform is hacked then only the liquidity providers will be at risk.&#x20;
+
+**Reduced Counter party Risk** - These risks occur when one side of the transaction does not hold up to it's side of the deal and defaults on it's transactional obligations. But because decentralized exchanges operate without the need of a third party/intermediary and are based on smart contracts, this risk is ultimately eliminated. Users are quickly able to verify if there may be any more dangers they could come across while using the DEX's, they can simply just do a search to find out if the exchange's [smart contracts](../../../../intermediate/tutorials-and-guides/ethereum/lessons/smart-contracts.md) have been audited or not, and can also make decisions based on previous traders experiences.&#x20;
+
+### Disadvantages of DEX's&#x20;
+
+Although there are many advantages of using DEX's as we briefly talked about above, nothing is perfect and there are always some disadvantages even when we talk about decentralized exchanges.&#x20;
+
+**Specific Knowledge Required** - The users are allowed access to DEX's by way of their cryptocurrency wallets, that are able to interact with the smart contracts. The users must have a basic knowledge of how to use their wallets and also have a clear understanding of all of the security related concepts that are associated with keeping all of the users funds secure and safe. These wallets must be funded with the correct tokens for each network, if the user does not have the native-token to that specific network then the funds could get stuck, because the trader is not able to pay the fee that is required to move them. You must have specific knowledge of these things in order to choose an actual wallet and put the correct funds into it. Without the proper knowledge users could commit a number of different errors like withdrawing coins to the wrong network, overpaying transaction fees, and losing out on impermanent loss are a few examples of the things that could go wrong.&#x20;
+
+**Smart Contract Vulnerabilities** - As we have talked about before smart contracts are public and being said an be seen and reviewed by anyone, and whats more is that the larger decentralized exchanges are audited by well known reputable firms that will assist in securing the code. But some bugs may still be able to slip past audits and other code reviews. And auditors will be unable to foresee future problems.&#x20;
+
+**Unvetted Token Listings** - It is possible for anyone to list a new token on a decentralized exchange and able to provide liquidity by pairing it with other coins. Which can lead to one of the most popular scams seen in web3 called rug pulls, that make them think they are buying a different token. On the other hand there are some DEX's that try and fight against these risks by asking the users to verify the smart contract of the tokens that they are trying to purchase. That is where the importance of specific knowledge and having the experience to know what you are doing. There are tons of information that traders are able to search for and find about a token simply by looking at it's white paper, joining the discord community or other social media and also potential audits as we mentioned before.&#x20;
+
+### &#x20;&#x20;
