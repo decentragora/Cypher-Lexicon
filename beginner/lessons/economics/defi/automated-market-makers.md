@@ -1,7 +1,7 @@
 ---
 description: >-
-  An Automated Market Maker is basically a system that automatically facilitates
-  buy and sell orders on a decentralized exchange.
+  An Automated Market Maker (AMM) is a system that automatically facilitates buy
+  & sell orders on a decentralized exchange.
 ---
 
 # Automated Market Makers
